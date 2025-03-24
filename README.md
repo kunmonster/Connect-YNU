@@ -11,7 +11,7 @@
 python fuckynu.py ip地址
 ```
 
-注意: 传参的ip地址是dhcp到的前域地址,嫌麻烦的用户可以直接使用python获取,因为我用的linux平台,所以直接使用ip命令得到了,没在这里实现python获取.
+注意: 传参的ip地址是dhcp到的前域地址,也就是未认证之前的ip地址，嫌麻烦的用户可以直接使用python获取,因为我用的linux平台,所以直接使用ip命令得到了,没在这里实现python获取.
 
 
 
